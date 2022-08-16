@@ -23,10 +23,10 @@ public class Employee {
     
     public Employee(){}
     
-    public Employee(String firtName, String lastName, String emailID){
+    public Employee(String firstName, String lastName, String emailId){
         super();
         this.firstName = firstName;
-        this.lastname = lastName;
+        this.lastName = lastName;
         this.emailId = emailId;
     }
     
